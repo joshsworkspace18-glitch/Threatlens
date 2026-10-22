@@ -1,0 +1,8 @@
+{
+  "name": "Remix ThreatLens",
+  "description": "Unified IoC Investigation Platform featuring real-time honeypot telemetry, Graph Neural Network infrastructure visualization, MITRE ATT\u0026CK contextualization, and analyst case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
